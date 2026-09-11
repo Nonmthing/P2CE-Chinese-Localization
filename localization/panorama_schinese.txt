@@ -662,7 +662,7 @@
 		"Settings_Render_MotionBlur_Info"				"运动模糊是一种全屏着色器效果，它在相机角度或位置快速变化时选择性地平滑画面。禁用此设置可能会略微提高图形性能。"
 
 		"Settings_Video_PStencilDepth" 					"传送门递归深度"
-		"Settings_Video_PStencilDepth_Info"				"此设置决定了画面在传送门中淡出之前递归的次数。较低的值可能会导致一个传送门从另一个传送门内看起来十分糟糕或导致传送门不“连通”。"
+		"Settings_Video_PStencilDepth_Info"				"此设置决定了画面在传送门中淡出之前递归的最大次数。较低的值可能会导致两个传送门同时在画面内时看起来十分糟糕或导致传送门不“连通”。"
 
 		"Settings_Video_TripleMonitor"					"三连显示器模式"
 		"Settings_Video_TripleMonitor_Info"				"将 UI 和 HUD 限制在显示屏的中央三分之一区域。适用于用三台显示器延伸画面的设备。"
