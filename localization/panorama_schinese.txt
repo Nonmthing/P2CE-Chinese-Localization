@@ -49,7 +49,7 @@
 		"COOP_PRESENCE_TRACK_TRACK2"			"重力与加速度"
 		"COOP_PRESENCE_TRACK_TRACK3"			"强光"
 		"COOP_PRESENCE_TRACK_TRACK4"			"牵引光束"
-		"COOP_PRESENCE_TRACK_TRACK5"			"流动"
+		"COOP_PRESENCE_TRACK_TRACK5"			"流动凝胶"
 		"COOP_PRESENCE_TRACK_CREDITS"			"制作人员"
 
 		// cfg_xboxlive_gamemode_strings.cfg 
@@ -281,7 +281,7 @@
 		"P2COOP_TrackName_2"						"重力与加速度"
 		"P2COOP_TrackName_3"						"强光"
 		"P2COOP_TrackName_4"						"牵引光束"
-		"P2COOP_TrackName_5"						"流动"
+		"P2COOP_TrackName_5"						"流动凝胶"
 		"P2COOP_TrackName_6"						"进阶测试"
 
 		"P2COOP_WAITINGFORPARTNER"					"等待伙伴中"
