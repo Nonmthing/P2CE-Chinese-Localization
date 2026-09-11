@@ -13,8 +13,8 @@
 		"X_STRINGID_TITLENAME"					"传送门 2：社区版"
 
 		// cfg_xboxlive_presence_strings.cfg 
-		"RICHPRESENCE_IDLE" 					"发呆中"
-		"RICHPRESENCE_MAINMENU" 				"主菜单"
+		"RICHPRESENCE_IDLE" 					"发呆..."
+		"RICHPRESENCE_MAINMENU" 				"在主菜单"
 		"RICHPRESENCE_SP" 						"{c0}"
 		"RICHPRESENCE_COOPMENU" 				"正在游玩双人合作\n{c1}"
 		"RICHPRESENCE_COOPGAME" 				"{c2}\n{c3}"
@@ -234,15 +234,15 @@
 		"Valve_Hint_Interact"				"互动"
 		"Valve_Hint_Jump"					"跳跃"
 		"Valve_Hint_Door"					"开门"
-		"Valve_Hint_Lever"					"拉杠杆"
+		"Valve_Hint_Lever"					"拉下拉杆"
 		"Valve_Hint_Zoom"					"缩放"
 		"Valve_Hint_Pickup_Glados"			"捡起 GLaDOS"
 		"Valve_Hint_Socket"					"激活插座"
 
 		"Valve_Hint_USEPickup"				"拾取物体"
 
-		"Valve_Hint_CarryTurret"			"或使用重力枪捡起机枪塔"
-		"Valve_Hint_CROSSBOW"				"使用十字弩的瞄具"
+		"Valve_Hint_CarryTurret"			"使用重力枪捡起炮塔？"
+		"Valve_Hint_CROSSBOW"				"十字弩开镜"
 
 		// PORTAL 2 INSTRUCTOR HINTS
 		"PORTAL2_HINT_GESTURE"				"动作"
@@ -255,7 +255,7 @@
 		"Instructor_Air_Taunt"				"空中动作"
 		"Instructor_New_Taunt_Earned"		"动作"
 		"Instructor_Partner_View"			"按住查看伙伴视角"
-		"Instructor_Start_Countdown"		"按住开始倒计时"
+		"Instructor_Start_Countdown"		"按住以开始倒计时"
 		"Instructor_Return_To_Hub"			"回到大厅"
 		"Instructor_Create_Blue_Portal"		"建立蓝色传送门"
 		"Instructor_Create_Purple_Portal"	"建立紫色传送门"
@@ -431,7 +431,7 @@
 		"Panorama_Lang_Footer_Turkish"				"土耳其语"
 		"Panorama_Lang_Footer_Ukrainian"			"乌克兰语"
 
-		"Panorama_MoviePlaybackError"				"回放时发生错误"
+		"Panorama_MoviePlaybackError"				"查看回放时发生错误"
 
 		"Debugger_PaintInfo"						"显示上色信息"
 		"Debugger_Style"							"样式"
